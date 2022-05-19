@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonathanpurnomo
+- 👋 Hi, I’m @jonathan.purnomo
 
 
 <!---
