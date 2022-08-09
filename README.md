@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @jonathan.purnomo
+### Hello World, Joo is here
+<img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 
-<!---
-jonathanpurnomo/jonathanpurnomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
